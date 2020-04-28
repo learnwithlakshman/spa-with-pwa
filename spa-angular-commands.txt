@@ -4,3 +4,21 @@ ng new my-app --routing --prefix my-app
 cd my-app
 ng add single-spa-angular
 npm i -S single-spa
+
+Commands For running in your local system
+
+git clone https://github.com/learnwithlakshman/spa-with-pwa.git
+
+cd spa-with-pwa
+
+cd train-app
+npm i
+npm run serve:single-spa:train-app
+
+cd bus-app
+npm i
+npm run serve:single-spa:bus-app
+
+cd main
+npm i
+npm start
