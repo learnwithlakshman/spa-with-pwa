@@ -1,0 +1,6 @@
+Commands for creating new Angular-SINLGE-SPA
+
+ng new my-app --routing --prefix my-app
+cd my-app
+ng add single-spa-angular
+npm i -S single-spa
