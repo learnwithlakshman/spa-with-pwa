@@ -1,3 +1,4 @@
+import { EmptyRouteComponent } from './empty-route/empty-route.component';
 import { MybookingsComponent } from './pages/mybookings/mybookings.component';
 import { HomeComponent } from './pages/home/home.component';
 import { AppComponent } from './app.component';
@@ -6,10 +7,6 @@ import { Routes, RouterModule } from '@angular/router';
 
 
 const routes: Routes = [
-  {
-    path: '', pathMatch: 'full',
-    redirectTo: '/app/home',
-  },
   {
     path: 'app',
     component: AppComponent,
@@ -24,6 +21,9 @@ const routes: Routes = [
       }
     ]
   },
+  {
+    path: '**', component: EmptyRouteComponent
+  }
 ];
 
 @NgModule({
