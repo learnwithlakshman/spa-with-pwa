@@ -66,7 +66,7 @@ setDefaultMountApp('/train-app');
  * Step4 启动应用
  */
 start({
-  prefetch: ['react16', 'react15', 'vue'],
+  prefetch: ['train-app', 'bus-app'],
   jsSandbox: true,
   singular: true,
 });
