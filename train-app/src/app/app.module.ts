@@ -8,6 +8,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { MybookingsComponent } from './pages/mybookings/mybookings.component';
 import { APP_BASE_HREF } from '@angular/common';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HeaderComponent } from './header/header.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     AppComponent,
     HomeComponent,
     MybookingsComponent,
-    EmptyRouteComponent
+    EmptyRouteComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

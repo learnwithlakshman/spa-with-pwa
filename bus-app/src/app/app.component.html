@@ -1,49 +1,56 @@
-<div class="p-3 mb-2 bg-primary text-white">Book Your Bus Tickets</div>
+<div class="row">
+    <div class="col-md-12">
+        <bus-app-header></bus-app-header>
+    </div>
+</div>
 
-<form>
-  <div class="form-row">
-      <div class="form-group col-md-6">
-          <label for="inputEmail4">From</label>
-          <input type="email" class="form-control" id="inputEmail4">
-      </div>
-      <div class="form-group col-md-6">
-          <label for="inputPassword4">To</label>
-          <input type="text" class="form-control" id="inputPassword4">
-      </div>
-  </div>
-  <div class="form-row">
-      <div class="form-group col-md-3">
-          <label for="inputCity">Name</label>
-          <input type="text" class="form-control" id="inputCity">
-      </div>
-      <div class="form-group col-md-3">
-          <label for="age">Age</label>
-          <input type="number" class="form-control" id="age">
-      </div>
-      <div class="form-group col-md-3">
-          <label for="inputState">Gender</label>
-          <select id="inputState" class="form-control">
-              <option selected>Choose...</option>
-              <option>MALE</option>
-              <option>FEMALE</option>
-          </select>
-      </div>
-      <div class="form-group col-md-3">
-          <label for="berth">Seats</label>
-          <select id="berth" class="form-control">
-              <option selected>Choose...</option>
-              <option>1</option>
-              <option>2</option>
-              <option>3</option>
-              <option>4</option>
-              <option>5</option>
-              <option>6</option>
-              <option>7</option>
-          </select>
-      </div>
-  </div>
-  <button class="btn btn-primary">Book Now</button>
-</form>
-
+<div class="row">
+    <div class="col-md-12">
+        <form>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="inputEmail4">From</label>
+                    <input type="email" class="form-control" id="inputEmail4">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="inputPassword4">To</label>
+                    <input type="text" class="form-control" id="inputPassword4">
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-3">
+                    <label for="inputCity">Name</label>
+                    <input type="text" class="form-control" id="inputCity">
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="age">Age</label>
+                    <input type="number" class="form-control" id="age">
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="inputState">Gender</label>
+                    <select id="inputState" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>MALE</option>
+                        <option>FEMALE</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="berth">Seats</label>
+                    <select id="berth" class="form-control">
+                        <option selected>Choose...</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                    </select>
+                </div>
+            </div>
+            <button class="btn btn-primary">Book Now</button>
+        </form>
+    </div>
+</div>
 
 <router-outlet></router-outlet>
