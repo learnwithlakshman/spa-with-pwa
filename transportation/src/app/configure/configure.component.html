@@ -1,0 +1,149 @@
+<!--breadcrumb-->
+<div class="col-md-12">
+    <div class="row">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><i class="fa fa-cog"></i>&#x20;{{obj.configure}}</li>
+        </ol>
+    </div>
+</div>
+
+<!--breadcrumb ends-->
+
+<!--transport configuration starts -->
+<div class="col-md-9 col-12 p-0 mt-3">
+    <mat-card class="p-0 rounded">
+        <mat-card-header class="text-white rounded-top bg-primary ">
+            <mat-card-title class="mt-2"> {{obj.transport_configuration}}</mat-card-title>
+        </mat-card-header>
+
+        <mat-card-content>
+            <div class="col-md-12 row pr-0 mb-3 mt-3">
+                <div class="col-md-6">
+                    {{obj.transportation_condition1}}
+                </div>
+                <div class="col-md-6">
+
+                    <mat-radio-group>
+                        <div class="row">
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="yes" checked>{{obj.yes}}</mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="no">{{obj.no}}
+                                </mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-sm-4">
+                            </div>
+                        </div>
+                    </mat-radio-group>
+                </div>
+
+            </div>
+            <div class="col-md-12 row pr-0 mb-3">
+
+
+                <div class="col-md-6">
+                    {{obj.transportation_condition2}}
+                </div>
+                <div class="col-md-6">
+                    <mat-radio-group>
+                        <div class="row">
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="yes" checked>{{obj.yes}}</mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="no">{{obj.no}}
+                                </mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-sm-4">
+                            </div>
+                        </div>
+                    </mat-radio-group>
+                </div>
+            </div>
+            <div class="col-md-12 row pr-0 mb-3">
+
+
+                <div class="col-md-6">
+                    {{obj.transportation_condition3}}
+                </div>
+                <div class="col-md-6">
+                    <mat-radio-group>
+                        <div class="row">
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="yes" checked>{{obj.yes}}</mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-2 col-sm-4">
+                                <mat-radio-button value="no">{{obj.no}}
+                                </mat-radio-button>
+                            </div>
+                            
+                        </div>
+                    </mat-radio-group>
+                </div>
+            </div>
+            <div class="col-md-12 row pr-0 mb-3">
+
+
+                <div class="col-md-6">
+                    {{obj.transportation_condition4}}
+                </div>
+                <div class="col-md-6">
+                    <mat-radio-group>
+                        <div class="row">
+                            <div class="col-md-4 col-4 col-sm-4">
+                                <mat-radio-button value="termwise" checked>{{obj.term_wise}}</mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-4 col-sm-4">
+                                <mat-radio-button value="yearwise">{{obj.year_wise}}
+                                </mat-radio-button>
+                            </div>
+                            
+                        </div>
+                    </mat-radio-group>
+                </div>
+            </div>
+            <div class="col-md-12 row pr-0 mb-3">
+
+
+                <div class="col-md-6 ">
+                    {{obj.transportation_condition5}}
+                </div>
+                <div class="col-md-6">
+                    <mat-radio-group>
+                        <div class=" row">
+                            <div class="col-md-4 col-4 col-sm-4">
+                                <mat-radio-button value="monthwise" checked>{{obj.month_wise}}</mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-4 col-sm-4">
+                                <mat-radio-button value="termwise">{{obj.term_wise}}
+                                </mat-radio-button>
+                            </div>
+                            <div class="col-md-4 col-4 col-sm-4">
+                                <mat-radio-button value="yearwise">{{obj.year_wise}}
+                                </mat-radio-button>
+                            </div>
+                        </div>
+                    </mat-radio-group>
+                </div>
+            </div>
+            <hr>
+
+
+        </mat-card-content>
+
+        <div class="col-md-12 mb-3">
+            <mat-card-footer>
+                <div class="row">
+                    <div class="col-md-12 text-right col-12">
+                        <button class="other-button mx-md-4 mx-2 bg-primary"><i class="fa fa-check"></i>&nbsp;Submit</button>
+                        <button class="other-button mx-md-4 mx-2 bg-danger"><i class="fa fa-sync-alt"></i>&nbsp;Reset</button>
+ 
+                    </div>
+                    
+                </div>
+                <div class="row">&nbsp;</div>
+            </mat-card-footer>
+        </div>
+    </mat-card>
+</div>

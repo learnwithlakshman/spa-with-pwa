@@ -1,0 +1,829 @@
+{
+    "vehicleType": [
+        "Bus",
+        "Mini Bus"
+    ],
+    "vehicleNumber": [
+        "KA41 Y 2348",
+        "KA41 Y 2349 ",
+        "KA41 Y 2350 ",
+        "KA41 Y 2351 ",
+        "KA41 Y 2352 ",
+        "KA41 Y 2353 "
+    ],
+    "nav-tab-list": [
+        "Basic Details",
+        "Insurance & Pollution Check",
+        "Service & Repair History",
+        "Driver Details"
+    ],
+    "vehicleinformation_own": [{
+            "vehicle_ownership": "own",
+            "number": "KA41 Y 2348",
+            "vehicle_type": "Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "12A",
+            "driver": "santhosh",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "Service which has been done by them is extremely good.",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": "service was good"
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D01",
+                "fullName": "santhosh A S",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Santhosh A S",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2348",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "own",
+            "number": "KA41 Y 2349",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "12A",
+            "driver": "Pratheek",
+            "routes": [
+                " coimbatore ",
+                " chennai ",
+                " bangalore ",
+                "Hyderabad"
+            ],
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D02",
+                "fullName": "Pratheek K",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Pratheek K",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2349",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "own",
+            "number": "KA41 Y 2350",
+            "vehicle_type": "Bus",
+            "Date_0f_purchase": "02 June 15",
+            "route": "10A",
+            "driver": "vijay",
+            "routes": [
+                " namakkal ",
+                " salem ",
+                " erode ",
+                "theni"
+            ],
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "There are some fault are there even after doing the service.Better to give this bus for service again.",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": "Service is not proper."
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D03",
+                "fullName": "Vijay S",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Vijay S",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2350",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "own",
+            "number": "KA41 Y 2351",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "12A",
+            "driver": "santhosh",
+            "routes": [
+                " dindugal ",
+                " madurai ",
+                " thirucy ",
+                "chennai"
+            ],
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D04",
+                "fullName": "santhosh K",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "santhosh K",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2351",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "own",
+            "number": "KA41 Y 2352",
+            "vehicle_type": "Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "11A",
+            "driver": "Sameer",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D05",
+                "fullName": "Sameer Nair",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Sameer Nai",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2342",
+                "Chassisnumber": "11211"
+            }]
+        }
+    ],
+    "vehicleinformation_contract": [{
+            "vehicle_ownership": "contract",
+            "number": "KA41 Y 2353",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "28 apr 15",
+            "route": "02A",
+            "driver": "Vikas",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D06",
+                "fullName": "Vikas S",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Vikas S",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2353",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "contract",
+            "number": "KA41 Y 2354",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "02 sep 15",
+            "route": "15AD",
+            "driver": "Bhupendra",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "There is some issue stiil exist in breaking system, which needs to be fixesd as soon as possible.",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D07",
+                "fullName": "Bhupendra K",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Bhupendra K",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2354",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "contract",
+            "number": "KA41 Y 2355",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "02A",
+            "driver": "Vilas",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D08",
+                "fullName": "Vilas A",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Vilas A",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2355",
+                "Chassisnumber": "11211"
+            }]
+        }
+    ],
+    "vehicleinformation_rent": [{
+            "vehicle_ownership": "rent",
+            "number": "KA41 Y 2356",
+            "vehicle_type": "Bus",
+            "Date_0f_purchase": "02 apr 15",
+            "route": "11A",
+            "driver": "Sandesh",
+            "routes": [
+                " DG_Petrol_Bunk ",
+                " Family_Mart_Junction ",
+                " Banashankari_Bus_Stand ",
+                "JP_Nagar_Central"
+            ],
+
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D09",
+                "fullName": "Sandesh K",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Sandesh K",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2356",
+                "Chassisnumber": "11211"
+            }]
+        },
+        {
+            "vehicle_ownership": "rent",
+            "number": "KA41 Y 2357",
+            "vehicle_type": "Mini Bus",
+            "Date_0f_purchase": "02 apr15",
+            "route": "12A",
+            "driver": "Prakash",
+            "routes": [
+                " coimbatore ",
+                " chennai ",
+                " bangalore ",
+                "Hyderabad"
+            ],
+            "nav-tab-list": [
+                "Basic Details",
+                "Insurance & Pollution Check",
+                "Service & Repair History",
+                "Driver Details"
+            ],
+
+            "vehicleinformation": [
+
+                { "vehicle_ownership": "own", "number": "KA41 Y 2348", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "own", "number": "KA41 Y 2349", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "Pratheek", "routes": [" coimbatore ", " chennai ", " bangalore ", "Hyderabad"] },
+                { "vehicle_ownership": "own", "number": "KA41 Y 2350", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "10A", "driver": "vijay", "routes": [" namakkal ", " salem ", " erode ", "theni"] },
+                { "vehicle_ownership": "own", "number": "KA41 Y 2351", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" dindugal ", " madurai ", " thirucy ", "chennai"] },
+                { "vehicle_ownership": "own", "number": "KA41 Y 2352", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "11A", "driver": "Sameer", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "contract", "number": "KA41 Y 2353", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "02A", "driver": "Vikas", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "contract", "number": "KA41 Y 2355", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "15AD", "driver": "Bhupendra", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "contract", "number": "KA41 Y 2353", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "02A", "driver": "Vikas", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "rent", "number": "KA41 Y 2352", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "11A", "driver": "Sameer", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+                { "vehicle_ownership": "rent", "number": "KA41 Y 2349", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "Pratheek", "routes": [" coimbatore ", " chennai ", " bangalore ", "Hyderabad"] }
+
+
+            ],
+
+            "details": [
+                "own", "contract", "rent"
+            ],
+
+            "insuranceDetails": [{
+                "insuranceNumber": "1234",
+                "insuranceCompany": "bus",
+                "policyValidTill": "23 Jan 2020",
+                "lastPremiumPaid": "2000",
+                "nextPremiumPaid": "3000",
+                "paidDate": "20 Jan 2020",
+                "dueDate": "21 Jan 2020",
+                "numberOfClaims": "2"
+            }],
+            "pollutionCheckDetails": [{
+                "lastCheckDate": "21 Jan 2019",
+                "nextCheckDate": "20 Dec 2021",
+                "validity": "10",
+                "lastPollutionCheckDoneFrom": "Pollution Check Agency"
+            }],
+            "serviceHistoryDetails": [{
+                "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit",
+                "dateOfServicing": "14 Jan 2019",
+                "distanceTravelled": "1234",
+                "comments": "",
+                "nextregularServiceDate": "15 Jan 2020",
+                "servcingRecord": [{
+                        "date": "14 July 2018",
+                        "serviceOrRepair": "Service",
+                        "amountPaid": "5000",
+                        "comments": ""
+                    },
+                    {
+                        "date": "14 Aug 2018",
+                        "serviceOrRepair": "Repair",
+                        "amountPaid": "6000",
+                        "comments": ""
+                    }
+                ]
+            }],
+            "driverDetails": [{
+                "employeeID": "D10",
+                "fullName": "Prakash N",
+                "gender": "Male",
+                "dateOfBirth": "16 Jan 1965",
+                "mobileNumber": "9876543210",
+                "bloodGroup": "B+ve",
+                "address": "#106, Srinagar Residency, BTM Layout,Bangalore - 76",
+                "drivingLicenseNumber": "213143",
+                "dateOfIssue": "16 Dec 2013",
+                "validTill": "10 Dec 2023",
+                "uploadedLicense": ""
+            }],
+            "BasicDetails": [{
+                "vehicle_type": "Mini Bus",
+                "FuelType": "Gasoline",
+                "VehicleRoute": "BSK 3rd stage - GiriNagar",
+                "DriverName": "Prakash N",
+                "Capacity": "50",
+                "PurchaseDate": "02 Apr 2015",
+                "RCnumber": "78448758754",
+                "DealerName": "Sandeep Singh",
+                "number": "KA41 Y 2357",
+                "Chassisnumber": "11211"
+            }]
+        }
+    ],
+    "vehicleinformation": [
+        { "vehicle_ownership": "own", "number": "KA 11 1285", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" DG_Petrol_Bunk ","silk board", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "own", "number": "KA 11 1885", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "Pratheek", "routes": [" coimbatore ","silk board", " chennai ", " bangalore ", "Hyderabad"] },
+        { "vehicle_ownership": "own", "number": "KA 11 9915", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "10A", "driver": "vijay", "routes": [" namakkal ", " salem ","silk board", " erode ", "theni"] },
+        { "vehicle_ownership": "own", "number": "KA 11 7815", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" dindugal ","electronic city", " madurai ", " thirucy ", "chennai"] },
+        { "vehicle_ownership": "own", "number": "KA 11 2215", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "11A", "driver": "Sameer", "routes": [" DG_Petrol_Bunk ","electronic board", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "own", "number": "KA 11 1755", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" DG_Petrol_Bunk ","mysore road", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "own", "number": "KA 11 7915", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "Pratheek", "routes": [" coimbatore ","vega city", " chennai ", " bangalore ", "Hyderabad"] },
+        { "vehicle_ownership": "own", "number": "KA 11 1215", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "10A", "driver": "vijay", "routes": [" namakkal ", " salem ","jaydeva hospital", " erode ", "theni"] },
+        { "vehicle_ownership": "own", "number": "KA 11 1565", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" dindugal ","silk board", " madurai ", " thirucy ", "chennai"] },    
+           
+        { "vehicle_ownership": "own", "number": "KA41 Y 2350", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "10A", "driver": "vijay", "routes": [" namakkal ","janta bazar","rajajinagar"," salem ", " erode ", "theni"] },
+        { "vehicle_ownership": "own", "number": "KA41 Y 2351", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "santhosh", "routes": [" dindugal ", " madurai ", " thirucy ", "chennai"] },
+        { "vehicle_ownership": "own", "number": "KA41 Y 2352", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "11A", "driver": "Sameer", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "contract", "number": "KA41 Y 2353", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "02A", "driver": "Vikas", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "contract", "number": "KA41 Y 2355", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "15AD", "driver": "Bhupendra", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "contract", "number": "KA41 Y 2353", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "02A", "driver": "Vikas", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "rent", "number": "KA41 Y 2352", "vehicle_type": "Bus", "Date_0f_purchase": "02_apr_15", "route": "11A", "driver": "Sameer", "routes": [" DG_Petrol_Bunk ", " Family_Mart_Junction ", " Banashankari_Bus_Stand ", "JP_Nagar_Central"] },
+        { "vehicle_ownership": "rent", "number": "KA41 Y 2349", "vehicle_type": "Mini Bus", "Date_0f_purchase": "02_apr_15", "route": "12A", "driver": "Pratheek", "routes": [" coimbatore ", " chennai ", " bangalore ", "Hyderabad"] }
+    ],
+
+    "details": [
+        "own", "contract", "rent"
+    ]
+
+}

@@ -1,0 +1,113 @@
+{
+    "dummy": [
+        {
+            "ID": "101",
+            "Name": "Ms Sudha",
+            "user_type": "TEACHING",
+            "contact_no": "9821822019",
+            "email": "sudha.s@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "102",
+            "Name": "Ms Priya",
+            "user_type": "TEACHING",
+            "contact_no": "9098728892",
+            "email": "priya.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "103",
+            "Name": "John",
+            "user_type": "TEACHING",
+            "contact_no": "9098728892",
+            "email": "john.m@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "104",
+            "Name": "Ms Anu",
+            "user_type": "TEACHING",
+            "contact_no": "9098783332",
+            "email": "anu.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "105",
+            "Name": "Ms Tina",
+            "user_type": "TEACHING",
+            "contact_no": "982611892",
+            "email": "tina.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "106",
+            "Name": "Ms reena",
+            "user_type": "TEACHING",
+            "contact_no": "9098728892",
+            "email": "reena.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "107",
+            "Name": "Ms Riya",
+            "user_type": "TEACHING",
+            "contact_no": "9098728892",
+            "email": "riya.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "108",
+            "Name": "Rachith",
+            "user_type": "TEACHING",
+            "contact_no": "7098728892",
+            "email": "rachith.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "109",
+            "Name": "Roy",
+            "user_type": "TEACHING",
+            "contact_no": "7828728892",
+            "email": "roy.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "110",
+            "Name": "Ms Preethi",
+            "user_type": "TEACHING",
+            "contact_no": "8098728892",
+            "email": "preethi.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "111",
+            "Name": "Ms Kripa",
+            "user_type": "TEACHING",
+            "contact_no": "9098728892",
+            "email": "kripa.d@gmail.com",
+            "address": "KARNATAKA"
+        },
+        {
+            "ID": "112",
+            "Name": "Ms Rishi",
+            "user_type": "TEACHING",
+            "contact_no": "9438728892",
+            "email": "rishi.d@gmail.com",
+            "address": "KARNATAKA"
+        }
+    ],
+    "manage-employee": {
+        "title": ["Mr","Mrs","Dr","Prof","Ms"],
+        "gender": ["Male","Female","Other"],
+        "employee_type": ["nodata","nodata","nodata"],
+        "employment_type": ["nodata","nodata","nodata"],
+        "designation": ["nodata","nodata","nodata"],
+        "blood_group": ["O+","O-","A+","A-","B+","B-","Rh+","Rh-"],
+        "primary_role": ["nodata","nodata","nodata"],
+        "secondary_role": ["nodata","nodata","nodata"],
+        "joining_year": ["2017","2018","2019","2020"],
+        "exit_year": ["2017","2018","2019","2020"],
+        "file_type": ["Driving License","Background Verification Form","Medical Certificate"]
+    }
+}

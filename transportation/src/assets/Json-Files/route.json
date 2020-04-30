@@ -1,0 +1,70 @@
+{
+    "totalRoute":[
+      {  "routetype": "12A",  "startingpoint": "Banshankri 3rd Stage", "destination": "SilkBoard" , "total_stop": 6,"drivername":"Badal" , "helpername":"Prasom" ,
+       "totalstopname":[
+           {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+           {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+           {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+           {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+           {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+           {"stopname": "SilkBoard" , "landMarkName":"Family Mart"}
+       ]},
+      {  "routetype": "12A",  "startingpoint": "Banshankri 3rd Stage", "destination": "SilkBoard" , "total_stop": 7 , "drivername":"Badal" , "helpername":"Prasom" , 
+        "totalstopname":[
+            {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+            {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+            {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+            {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+            {"stopname": "Jaydeva" , "landMarkName":"Family Mart"},
+            {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+            {"stopname": "SilkBoard" ,"landMarkName":"Family Mart"}]
+        },
+      {  "routetype": "13B",  "startingpoint": "Banshankri 3rd Stage", "destination": "SilkBoard" , "total_stop": 7,"drivername":"Badal" , "helpername":"Prasom" ,  
+        "totalstopname":[
+            {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+            {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+            {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+            {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+            {"stopname": "Jaydeva" , "landMarkName":"Family Mart"},
+            {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+            {"stopname": "SilkBoard" , "landMarkName":"Family Mart"}]
+       
+    },
+      {  "routetype": "13B",  "startingpoint": "Banshankri 3rd Stage", "destination": "BTM Layout" , "total_stop": 6 ,"drivername":"Badal" , "helpername":"Prasom" , 
+        "totalstopname":[
+            {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+            {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+            {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+            {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+            {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+            {"stopname": "SilkBoard" , "landMarkName":"Family Mart"}]
+       
+     },
+      {  "routetype": "14C",  "startingpoint": "Banshankri 3rd Stage", "destination": "Koramangala" , "total_stop": 6 , "drivername":"Badal" , "helpername":"Prasom" ,  
+        "totalstopname":[
+            {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+            {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+            {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+            {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+            {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+            {"stopname": "SilkBoard" , "landMarkName":"Family Mart"}]
+       
+    },
+      {  "routetype": "14C",  "startingpoint": "Banshankri 3rd Stage", "destination": "SilkBoard" , "total_stop": 7,"drivername":"Badal" , "helpername":"Prasom" , 
+        "totalstopname":[
+            {"stopname": "DG Petrol Bunk" , "landMarkName":"Family Mart"},
+            {"stopname": "Family Mart JuncBon" , "landMarkName":"Family Mart"},
+            {"stopname": "Banashankari Bus Stand" , "landMarkName":"Family Mart"},
+            {"stopname": "JP Nagar Central" , "landMarkName":"Family Mart"},
+            {"stopname": "Jaydeva" , "landMarkName":"Family Mart"},
+            {"stopname": "BTM Layout" , "landMarkName":"Family Mart"},
+            {"stopname": "SilkBoard" , "landMarkName":"Family Mart"}]
+       
+    }
+    ] ,
+    "routeName":["13B","14C","12A"],
+    "driverName":["Badal", "Mohan","Sohit"],
+    "assignHelper":["Prasom", "Nanhe", "Rohit"],
+    "startingPoint":["Banshankri 3rd Stage" , "Jayanagar 3rd Block"],
+    "destination":["SilkBoard", "Koramangala", "J.P. Nagar", "BTM Layout"]
+}

@@ -1,0 +1,74 @@
+{
+    "user_details": [
+        { "user_type": "Student", "usn_id": "4al06is002", "name": "anusha", "route": "12A", "vehicle_type": "KA 11 1285", "driver": "vipin Raj", "pickup_point": "BSK 3rd stage", "drop_point": "silk board", "monthly_fees": "7000" },
+        { "user_type": "Student", "usn_id": "4al06is041", "name": "manoj", "route": "12A", "vehicle_type": "KA 11 1885", "driver": "raj", "pickup_point": "BSK 2nd stage", "drop_point": "silk board", "monthly_fees": "8000" },
+        { "user_type": "Student", "usn_id": "12AB133", "name": "rajshekar", "route": "12A", "vehicle_type": "KA 11 9915", "driver": "arjun", "pickup_point": "BSK 1st stage", "drop_point": "silk board", "monthly_fees": "6000" },
+        { "user_type": "Student", "usn_id": "4al06cs002", "name": "anoop rao", "route": "12B", "vehicle_type": "KA 11 9215", "driver": "rajshekar", "pickup_point": "Jayanagar", "drop_point": "electronic city", "monthly_fees": "5000" },
+        { "user_type": "Student", "usn_id": "12AB145", "name": "manish", "route": "12C", "vehicle_type": "KA 11 7815", "driver": "anoop", "pickup_point": "hoskerehalli cross", "drop_point": "electronic board", "monthly_fees": "4000" },
+        { "user_type": "Employee", "usn_id": "12AB156", "name": "manisha", "route": "11A", "vehicle_type": "KA 11 2215", "driver": "avinash", "pickup_point": "lalbag metro station", "drop_point": "mysore road", "monthly_fees": "9000" },
+        { "user_type": "Student", "usn_id": "4al06ec012", "name": "shivaraj", "route": "10A", "vehicle_type": "KA 11 1755", "driver": "anvesh", "pickup_point": "mejestic", "drop_point": "vega city", "monthly_fees": "5000" },
+        { "user_type": "Employee", "usn_id": "12AB155", "name": "sushant", "route": "11B", "vehicle_type": "KA 11 7915", "driver": "akash", "pickup_point": "lalbag", "drop_point": "jaydeva hospital", "monthly_fees": "6000" },
+        { "user_type": "Student", "usn_id": "4al06is044", "name": "akash", "route": "10B", "vehicle_type": "KA 11 1215", "driver": "ashok", "pickup_point": "mejestic", "drop_point": "silk board", "monthly_fees": "7000" },
+        { "user_type": "Student", "usn_id": "4al06is045", "name": "arup", "route": "11C", "vehicle_type": "KA 11 1565", "driver": "raja", "pickup_point": "kamakya", "drop_point": "rajajinagar", "monthly_fees": "7000" },
+        { "user_type": "Employee", "usn_id": "4al06is051", "name": "adarsh", "route": "10B", "vehicle_type": "KA 11 1485", "driver": "raj", "pickup_point": "hoskerehalli cross", "drop_point": "janta bazar", "monthly_fees": "7000" },
+        { "user_type": "Student", "usn_id": "4al06is055", "name": "ziya", "route": "10B", "vehicle_type": "KA 11 1475", "driver": "raj", "pickup_point": "hoskerehalli cross", "drop_point": "janta bazar", "monthly_fees": "7000" }
+    ],
+
+    "dropdown-details": {
+        "drop_user_type": ["All user type", "Student", "Employee"],
+        "route_type": ["All Routes", "12A", "12B", "10A", "11A", "10B"],
+        "driver": ["All Drivers", "anvesh", "anoop", "rajshekar", "raj"],
+        "pickup_points": ["All Pickup Points", "BSK 3rd stage", "BSK 2nd stage", "BSK 1st stage", "hoskerehalli cross", "Jayanagar"],
+        "drop_points": ["All Drop Points", "vega city", "mysore road", "electronic city", "silk board"]
+    },
+    "vehicle": {
+        "FuelType": "Diesel",
+        "VehicleRoute": "BSK 3rd Stage - Koramangala",
+        "Capacity": "50",
+        "RCnumber": "78448758754 ",
+        "DealerName": "Sandeep Singh",
+        "Chassisnumber": "11211"
+      },
+    "vehicles": {
+        "vehicle_type": " ",
+        "driver": " ",
+        "Date_0f_purchase": " ",
+        "number": " "
+      },
+    
+      "pollution" : {
+        "insuranceCompany": "Bajaj Allianz",
+        "policyValidTill": "19 Jun 2021",
+        "lastPremiumPaid": "26 Jun 2019",
+        "nextPremium": "26 Jun 2020",
+        "payment": "27 Jun 2020",
+        "ofClaims": "2",
+        "lastPollution": "Pollution Check Agency, BSK 3rd Stage",
+        "pollutionCheckDate": "27 Jan 2019",
+        "validity": "6 Months",
+        "nextPollution": "28 Jul 2019"
+      },
+      "service": {
+        "lastServiceDoneFrom": "TATA Motors Services , BSK 3rd Stage Unit ",
+        "dateofServicing": "14 Jan 2019",
+        "distanceTravelled": "16634 Km",
+        "nextRegularServiceDate": "15 Jan 2020",
+        "comments": "something you want to text"
+    
+      },
+      "driveDetails": {
+        "employeeId": "13412",
+        "fullName": "John Doe ",
+        "gender": "Male",
+        "dateofBirth": "16 Dec 1985",
+        "mobile": "9987458746",
+        "bloodGroup": "B+",
+        "address": "#106, Srinagar Residency, BTM Layout, Bangalore - 76 ",
+        "drivingLicense": "213143",
+        "dateofIssue": "16 Dec 2013",
+        "validTill": "17 Dec 2023"
+    
+      }
+
+
+}

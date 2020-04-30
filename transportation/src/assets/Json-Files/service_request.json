@@ -1,0 +1,131 @@
+{
+
+    "serviceRequest": [{
+            "user_type": "Student",
+            "usn_id": "4al06is002",
+            "name": "Aman Kumar",
+            "route": "12A",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Vipin Raj",
+            "pickup_point": "BSK 3rd stage",
+            "drop_point": "silk board",
+            "monthly_fees": 7000,
+            "total_stop": 6,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+        },
+        {
+            "user_type": "Student",
+            "usn_id": "4al06is041",
+            "name": "Mohit Kumar",
+            "route": "12A",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Raj",
+            "pickup_point": "BSK 3rd stage",
+            "drop_point": "silk board",
+            "monthly_fees": 7500,
+            "total_stop": 7,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "Jaydeva" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+        },
+        {
+            "user_type": "Student",
+            "usn_id": "4al06is043s",
+            "name": "Pushkar Kumar",
+            "route": "12A",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Sonu Kumar",
+            "pickup_point": "BSK 3rd stage",
+            "drop_point": "silk board",
+            "monthly_fees": 6000,
+            "total_stop": 7,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "Jaydeva" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+
+        },
+        {
+            "user_type": "Employee",
+            "usn_id": "12AB133",
+            "name": "Badal Kumar",
+            "route": "12A",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Arjun",
+            "pickup_point": "BSK 3rd stage",
+            "drop_point": "silk board",
+            "monthly_fees": 8500,
+            "total_stop": 6,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+
+        },
+        {
+            "user_type": "Employee",
+            "usn_id": "12AB145",
+            "name": "Manish Kumar",
+            "route": "12C",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Anoop",
+            "pickup_point": "Banshankri 3rd Stage",
+            "drop_point": "SilkBoard",
+            "monthly_fees": 9000,
+            "total_stop": 6,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+
+        },
+        {
+            "user_type": "Student",
+            "usn_id": "4al06ec012",
+            "name": "Gaurav Kumar",
+            "route": "10A",
+            "vehicle_type": "KA 11 1215",
+            "driver": "Anvesh",
+            "pickup_point": "Banshankri 3rd Stage",
+            "drop_point": "SilkBoard",
+            "monthly_fees": 6500,
+            "total_stop": 7,
+            "totalStopName": [
+                { "stopName": "DG Petrol Bunk" },
+                { "stopName": "Family Mart JuncBon" },
+                { "stopName": "Banashankari Bus Stand" },
+                { "stopName": "JP Nagar Central" },
+                { "stopName": "Jaydeva" },
+                { "stopName": "BTM Layout" },
+                { "stopName": "SilkBoard" }
+            ]
+
+        }
+    ]
+}

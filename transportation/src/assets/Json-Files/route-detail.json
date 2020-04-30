@@ -1,0 +1,135 @@
+{
+    "totalRoute":[
+      {  "route": "12A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 6,
+       "totalStopName":[
+           {"stopName": "DG Petrol Bunk","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+           {"stopName": "Family Mart JuncBon","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+           {"stopName": "Banashankari Bus Stand","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+           {"stopName": "JP Nagar Central","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+           {"stopName": "BTM Layout","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+           {"stopName": "SilkBoard","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"}
+       ]},
+      {  "route": "13A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7 ,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "Family Mart JuncBon","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "Banashankari Bus Stand","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "JP Nagar Central","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "Jaydeva","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "BTM Layout","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"},
+            {"stopName": "SilkBoard","Pickup_Time":"7:30 AM" ,  "Dropoff_Time":"5:00 PM"}]
+        },
+      {  "route": "14A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]  
+    },
+      {  "route": "12B",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 6 ,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+     },
+      {  "route": "11A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 6 ,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+      {  "route": "07A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+    {  "route": "2A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+    {  "route": "3A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+    {  "route": "4A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+    {  "route": "2B",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+        "totalStopName":[
+            {"stopName": "DG Petrol Bunk"},
+            {"stopName": "Family Mart JuncBon"},
+            {"stopName": "Banashankari Bus Stand"},
+            {"stopName": "JP Nagar Central"},
+            {"stopName": "Jaydeva"},
+            {"stopName": "BTM Layout"},
+            {"stopName": "SilkBoard"}]
+       
+    },
+    {  "route": "19A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+      "totalStopName":[
+          {"stopName": "DG Petrol Bunk"},
+          {"stopName": "Family Mart JuncBon"},
+          {"stopName": "Banashankari Bus Stand"},
+          {"stopName": "JP Nagar Central"},
+          {"stopName": "Jaydeva"},
+          {"stopName": "BTM Layout"},
+          {"stopName": "SilkBoard"}]
+     
+  },
+  {  "route": "01A",  "pickup_point": "BSK 3rd stage", "drop_point": "silk board" , "total_stop": 7,
+    "totalStopName":[
+        {"stopName": "DG Petrol Bunk"},
+        {"stopName": "Family Mart JuncBon"},
+        {"stopName": "Banashankari Bus Stand"},
+        {"stopName": "JP Nagar Central"},
+        {"stopName": "Jaydeva"},
+        {"stopName": "BTM Layout"},
+        {"stopName": "SilkBoard"}]
+   
+}
+    ] ,
+    "routeName":["13B","14C","12A"],
+    "driverName":["Badal", "Mohan","Sohit"],
+    "assignHelper":["Prasom", "Nanhe", "Rohit"],
+    "startingPoint":["Banshankri 3rd Stage" , "Jayanagar 3rd Block"],
+    "destination":["SilkBoard", "Koramangala", "J.P. Nagar", "BTM Layout"]
+}

@@ -36,6 +36,12 @@ registerMicroApps(
       entry: '//localhost:4200',
       render,
       activeRule: genActiveRule('/train-app'),
+    },
+    {
+      name: 'transportation',
+      entry: '//localhost:4400',
+      render,
+      activeRule: genActiveRule('/transportation'),
     }
   ],
   {
@@ -66,7 +72,7 @@ setDefaultMountApp('/train-app');
  * Step4 启动应用
  */
 start({
-  prefetch: ['train-app', 'bus-app'],
+  prefetch: ['train-app', 'bus-app','transportation'],
   jsSandbox: true,
   singular: true,
 });

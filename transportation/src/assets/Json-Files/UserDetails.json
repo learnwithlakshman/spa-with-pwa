@@ -1,0 +1,24 @@
+{
+    "user-details":
+    [
+                  { "userType":"Student" , "designation": "NA" , "ID":"4PA16CS011" , "Name":"Tushar" , "VehicleId":1211 , "PickupRouteNumber":"12A" , "DropdownRouteNumber":"12A" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Student" , "designation": "NA" , "ID":"4PA16CS012" , "Name":"Happy Singh" , "VehicleId":1213 , "PickupRouteNumber":" 12C" , "DropdownRouteNumber":"13A" , "FeeAplicable":22000,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"BTM Layout","degree":"BE"},
+                  { "userType":"Student" , "designation": "NA" , "ID":"4PA16CS014" , "Name":"Shobhit Singhania" , "VehicleId":1214 , "PickupRouteNumber":"12A" , "DropdownRouteNumber":"12C" , "FeeAplicable":27000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"BTM Layout","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Faculty" , "designation": "Assistant Professor" , "ID":"E07" , "Name":"InduShree" , "VehicleId":1215 , "PickupRouteNumber":"12A" , "DropdownRouteNumber":"12A" , "FeeAplicable":19000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Faculty" , "designation": "Assistant Professor" , "ID":"E08" , "Name":"Soujanya" , "VehicleId":1216 , "PickupRouteNumber":"13C" , "DropdownRouteNumber":"12A" , "FeeAplicable":21000 , "PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"BTM Layout","degree":"BE"},
+                  { "userType":"Faculty" , "designation": "Assistant Professor" , "ID":"E09" , "Name":"Navya" , "VehicleId":1217 , "PickupRouteNumber":"12A" , "DropdownRouteNumber":"12B" , "FeeAplicable":25000 , "PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"HOD" , "designation": "HOD" , "ID":"E01" , "Name":"Tushar Anand" , "VehicleId":1219 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Student" , "designation": "NA" , "ID":"E02" , "Name":"Anand" , "VehicleId":1220 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:00 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Student" , "designation": "NA" , "ID":"E03" , "Name":"Venkatesh" , "VehicleId":1221 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:10 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Faculty" , "designation": "Assistant Professor" , "ID":"E04" , "Name":"Lakshman" , "VehicleId":1222 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:20 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Student" , "designation": "NA" , "ID":"E05" , "Name":"Shankar" , "VehicleId":1223 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"},
+                  { "userType":"Faculty" , "designation": "Assistant Professor" , "ID":"E06" , "Name":"Pradeep" , "VehicleId":1224 , "PickupRouteNumber":"15A" , "DropdownRouteNumber":"15C" , "FeeAplicable":25000 ,"PickupTime":"7:00 AM" ,"DropoffTime":"5:30 PM","pickupPoints":"Banashankari","dropoffPoints":"Banashankari","degree":"BE"}
+],
+"dropdown-details":
+{
+    "degree": [ "BE", "BTech", "MTech" ],
+    "usertype": [ "All Users", "Student", "Faculty", "HOD" ],
+    "pickupPoints": ["All Pickup Points", "Banashankari", "BTM Layout"],
+    "dropoffPoints": ["All Drop Points", "Banashankari", "BTM Layout", "Koromangala"]
+}
+}
